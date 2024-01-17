@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/a8lLEw2.gif)
+![](https://i.imgur.com/wBYc1rU.gif)
 > 首先定一個好的文章標題，其次要試想怎麼樣可以更加輕鬆地理解想要表達的內容
