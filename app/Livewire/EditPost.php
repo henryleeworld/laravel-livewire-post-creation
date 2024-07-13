@@ -2,9 +2,9 @@
 
 namespace App\Livewire;
 
+use App\Livewire\Forms\PostForm;
 use App\Models\Post;
 use Livewire\Component;
-use App\Livewire\Forms\PostForm;
 
 class EditPost extends Component
 {
